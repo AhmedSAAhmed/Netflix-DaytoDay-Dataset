@@ -22,4 +22,5 @@ Question to answer in the analysis?
 14) What is the maximum duration of a Movie/Show on Netflix ?
 15) Which individual country has the Highest No. of TV Shows ?
 16) How can we sort the dataset by Year ?
+17) Find all the instances where: Category is 'Movie' and Type is 'Dramas' or Category is 'TV Show' & Type is 'Kids' TV'.
 
