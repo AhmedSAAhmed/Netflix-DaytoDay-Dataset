@@ -20,6 +20,12 @@ Cleaning and wrangling by (duplicated(), drop_duplicates()
 * str.contains( ) - To get all records that contains a given string.
 * str.split( ) - It splits a column's string into different columns.
 * to_datetime( ) - Converts the data-type of Date-Time Column into datetime[ns] datatype.
+* * dt.year.value_counts( ) - It counts the occurrence of all individual years in Time column.
+* groupby( ) - Groupby is used to split the data into groups based on some criteria.
+* sns.countplot(df['Col_name']) - To show the count of all unique values of any column in the form of bar graph.
+* max( ), min( ) - It shows the maximum/minimum value of the series.
+* mean( ) - It shows the mean value of the series.
+
 
 Question to answer in the analysis?
 
