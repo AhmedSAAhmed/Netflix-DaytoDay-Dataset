@@ -10,6 +10,16 @@ Cleaning and wrangling by (duplicated(), drop_duplicates()
 * columns - To show each Column Name.
 * dtypes - To show the data-type of each column.
 * info() - To show indexes, columns, data-types of each column, memory at once
+* value_counts - In a column, it shows all the unique values with their count. It can be applied on a single column only.
+* unique() - It shows the all unique values of the series.
+* nunique() - It shows the total no. of unique values in the series.
+* duplicated( ) - To check row wise and detect the Duplicate rows.
+* isnull( ) - To show where Null value is present.
+* dropna( ) - It drops the rows that contains all missing values.
+* isin( ) - To show all records including particular elements.
+* str.contains( ) - To get all records that contains a given string.
+* str.split( ) - It splits a column's string into different columns.
+* to_datetime( ) - Converts the data-type of Date-Time Column into datetime[ns] datatype.
 
 Question to answer in the analysis?
 
