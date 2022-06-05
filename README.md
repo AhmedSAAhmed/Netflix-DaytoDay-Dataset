@@ -8,6 +8,13 @@ Cleaning and wrangling by (duplicated(), drop_duplicates()
 * shape - It shows the total no. of rows and no. of columns of the dataframe.
 * size - To show No. of total values(elements) in the dataset.
 * columns - To show each Column Name.
+* dtypes - To show the data-type of each column.
+* info() - To show indexes, columns, data-types of each column, memory at once
+* value_counts - In a column, it shows all the unique values with their count. It can be applied on a single column only.
+* unique() - It shows the all unique values of the series.
+* nunique() - It shows the total no. of unique values in the series.
+* duplicated( ) - To check row wise and detect the Duplicate rows.
+* isnull( ) - To show where Null value is present.
 
 * dropna( ) - It drops the rows that contains all missing values.
 * isin( ) - To show all records including particular elements.
