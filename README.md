@@ -1,6 +1,9 @@
 # Netflix-DaytoDay(2021)-DataSet
 
-
+* head() - It shows the first N rows in the data (by default, N=5).
+* tail () - It shows the last N rows in the data (by default, N=5).
+* shape - It shows the total no. of rows and no. of columns of the dataframe.
+* size - To show No. of total values(elements) in the dataset.
 
 * columns - To show each Column Name.
 * dtypes - To show the data-type of each column.
